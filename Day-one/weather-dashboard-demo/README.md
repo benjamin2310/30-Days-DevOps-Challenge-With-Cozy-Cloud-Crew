@@ -3,7 +3,7 @@
 
 # Weather Data Collection System - DevOps Day 1 Challenge
 
-**Project Overview
+** Project Overview
 This project is a Weather Data Collection System that demonstrates core DevOps principles by combining:
 
 External API Integration (OpenWeather API)
@@ -14,14 +14,14 @@ Python Development
 Error Handling
 Environment Management
 
-**Features
+** Features
 Fetches real-time weather data for multiple cities
 Displays temperature (°F), humidity, and weather conditions
 Automatically stores weather data in AWS S3
 Supports multiple city tracking
 Timestamps all data for historical tracking
 
-**Technical Architecture
+** Technical Architecture
 Language: Python 3.x
 Cloud Provider: AWS (S3)
 External API: OpenWeather API
